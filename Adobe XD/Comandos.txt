@@ -1,0 +1,18 @@
+-presionar barra espaciador y click con el mouse sostenido para que aparezca la manito y mover.
+-CTRL+1 ver en tamaño real.
+-CTRL+2 zoom doble del real
+-CTRL+3  zoom alejado.
+-CTRL+D duplicar
+-CTRL+g con capas seleccionadas las agrupa, para seleccionar haces click en una y ctrl+click en otra.
+-El candadito sirve para que no se puede arrastrar o modificar si nquere.
+-Fuente Open Sans utilizada google fonts.
+-shift(seleccionando algun objeto con click) + arrows, lo mueve cierta cantidad de pixeles
+en base al que esta pegado segun la direccion del arrow.
+-Ctrl + arrows lo mismo pero de a un pixel.
+-Elipses, usar shift y ruefa del raton a la vez.
+-Doble click en la imagen permite ponerla como queres.
+-el |> es para ver como va quedando.
+-Se pueden agregar colores a la paleta dandole click al +.
+-Presionando alt luego de usar el texto si cambio el ancho a un lado, se cambia a ambos.
+-Repeat grid, seleccionas una carpeta y la repetis movienda para abajo arriba la izquierda o la derecha
+en forma de grilla. Dependiendo la grilla.

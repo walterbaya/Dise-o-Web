@@ -1,0 +1,4 @@
+Configurar primero el espaciado a izquierda y derecha, luego se puede seguir con el resto.
+20 de espacio entre las columnas es un valor estandar en programacion web(anchura medianil).
+
+(AnchoPagina - AnchoDeseadoGrid)/2   margin a izquierda y derecha de la grid.
