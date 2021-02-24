@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>Responsive Utilities</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <style>
+        .columna{
+            background: #2191fb;
+            color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+    	<div class="row">
+    		<div class="col columna d-block d-sm-none">
+    			XS - Extra Small
+    		</div>
+              <div class="col columna d-none d-sm-block d-md-none">
+                SM - Small
+            </div>
+            <div class="col columna d-none d-sm-none d-md-block d-lg-none">
+                MD - Medium
+            </div>
+              <div class="col columna d-none d-sm-none d-md-none d-lg-block d-xl-none">
+                LG - Large
+            </div>
+                <div class="col columna d-none d-xl-block">
+                XL - Extra Large
+            </div>
+    	</div>
+    </div>
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

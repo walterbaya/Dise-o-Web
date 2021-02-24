@@ -1,0 +1,11 @@
+/*Uso de media Querys*/
+
+/*Queremos que cuando la pantalla tenga un tamaño
+como mucho de 800px eponer el body en negro*/
+@media screen and (max-width:800px){
+	/*estilos que esten aqui*/
+	main{
+		width: 100%;
+		background-color: limegreen;
+	}
+}
