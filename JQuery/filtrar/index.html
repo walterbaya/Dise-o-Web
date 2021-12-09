@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Filtrando elementos del dom</title>
 	<style>
-		.caja{
+		.caja {
 			width: 150px;
 			height: 150px;
 			margin: 10px;
@@ -15,21 +16,36 @@
 			font-size: 40px;
 			background: #226fc1;
 		}
+
+		.estilo1{
+			background-color: aquamarine;
+		}
+
+		.estilo2{
+			background-color: brown;
+			border-radius: 0.5;
+			box-shadow: 0px 0px 5px blue;
+		}
+
 	</style>
 </head>
+
 <body>
 	<!--Ahora se puede agregar aquí, ya que las funciones utilizando document
 	no se ejecutaran hasta que se carge el documento, ya que etamos utilizando document.ready-->
 	<h1>JQUERY</h1>
-	
-	<div>
+
+	<div id="contenedor">
 		<div class="caja">1</div>
 		<div class="caja" id="segunda">2</div>
 		<div class="caja">3</div>
-		<div class="caja">4</div>		
+		<div class="caja">4</div>
 	</div>
+
+	<button class="boton estilo1" id="boton">Lorem ipsum</button>
 
 	<script src="jquery.min.js"></script>
 	<script src="index.js"></script>
 </body>
+
 </html>

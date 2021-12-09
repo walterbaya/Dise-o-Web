@@ -34,7 +34,7 @@ $(document).ready(function(){
 	boton.on('mouseleave', function(){
 		document.body.style.background='#fff';
 	})
-*/
+
 	//Eliminando eventos
 
 	boton.on('click', function(){
@@ -53,5 +53,9 @@ $(document).ready(function(){
 		e.preventDefault();
 		alert('link desactivado')
 	})
+*/
+
+
+//Calculando medidas con JQuery
 
 });
