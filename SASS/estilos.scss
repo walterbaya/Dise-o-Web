@@ -1,0 +1,15 @@
+body{
+    background: blue;
+}
+
+.articulo{
+    background: white;
+    padding: 20px;
+    width: 400px;
+}
+
+//Para agregar este codigo a mi estilos css, abrimos la consola
+//luego desde la terminal hacemos sass nombreArchivos.scss:nombreArchivo.css
+//y te lo minifica, es una maravilla.
+//con el comando sass --watch estilos.sass:estilos.css directamente revisa y actualiza
+//de forma automatica sin tener que andar recompilando todo el tiempo

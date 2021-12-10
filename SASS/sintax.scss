@@ -1,0 +1,23 @@
+/*Sintaxis moderna
+desde mi punto de vista la mejor*/
+
+body {
+    background: #f2f2f2;
+}
+
+.articulo {
+    background: white;
+    .titulo{
+        color: black;
+    }    
+    .autor{
+        color: #000;
+    }
+    p{
+        a{
+            text-decoration: none;
+        }
+    }
+}
+
+//los sass deben compilarse para poder ser reconocidos por el navegador.
