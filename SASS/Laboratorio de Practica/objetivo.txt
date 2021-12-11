@@ -1,0 +1,3 @@
+Transformar todo el codigo de css utilizando sass para optimizar 
+la distribucion del codigo en los archivos scss y faciliar la lectura de
+los mismos.
