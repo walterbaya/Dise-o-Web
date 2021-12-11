@@ -1,0 +1,18 @@
+/*@mixin colores($fondo, $articulo){
+    body{
+        background: $fondo;
+    }
+    .articulo{
+        background: $articulo;
+    }
+}
+
+@include colores(#ff8000, white);
+*/
+//Explorar biblioteca de funciones de sass.
+
+//Ejemplo
+
+article{
+    background: rgba($color: white, $alpha: 0.1);
+}

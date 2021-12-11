@@ -1,0 +1,16 @@
+/*@mixin colores($fondo, $articulo){
+    body{
+        background: $fondo;
+    }
+    .articulo{
+        background: $articulo;
+    }
+}
+
+@include colores(#ff8000, white);
+*/
+article {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/*# sourceMappingURL=mixins.css.map */
